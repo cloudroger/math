@@ -17,7 +17,7 @@ Now you might say, "this is a silly pretend scenario because ***obviously*** 1 +
 
 Ask yourself, have you ***ever*** believed something with certainty, but then later changed your mind on it? I know ***my*** answer to this.
 
-We (humans) have even written [mathematical proofs that were later ***disproven***](https://mathoverflow.net/questions/35468/widely-accepted-mathematical-results-that-were-later-shown-to-be-wrong)
+We (humans) have even accepted [mathematical proofs that were later ***disproven***](https://mathoverflow.net/questions/35468/widely-accepted-mathematical-results-that-were-later-shown-to-be-wrong)
 ___
 Nothing is infalliby provable, therefore conceptual certainty cannot exist. [Kurt Gödel pointed this out](https://www.quantamagazine.org/how-godels-incompleteness-theorems-work-20200714/)
 ___
