@@ -9,4 +9,4 @@ Are you willing to give up 1 minute and 37 seconds of your time with a fully ope
 Let's pretend there is a planet, far away, like [this one](https://en.wikipedia.org/wiki/Proxima_Centauri), where there is a civilization of one million primitive beings figuring out what we know as basic math.
 
 If 999,000 of these beings agree that 1 + 1 = 3, and this majority ridicules the 1000 "fools" who believe that 1 + 1 = 2;
-Who are the real fools of this civilization, the 999,000...or the 1000?
+Who are the real fools of this civilization? the 999,000...or the 1000?
