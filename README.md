@@ -13,7 +13,7 @@ If 999,000 of these beings agree that 1 + 1 = 3, and this majority ridicules the
 Who are the real fools of this civilization? the 999,000...or the 1000?
 
 ___
-Now you might say, "this is a silly pretend scenario because ***obviously*** 1 + 1 = 2, so ***we*** here on earth would never be dumb enough to miss that.
+Now you might say, "this is a silly pretend scenario because ***obviously*** 1 + 1 = 2, so ***we*** here on earth would never be dumb enough to miss that."
 
 Ask yourself, have you ***ever*** believed something with certainty, but then later changed your mind on it? I know ***my*** answer to this.
 
