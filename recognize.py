@@ -62,13 +62,3 @@ def execute():
     group = [int(i) for i in x.split(',')]
     hyperop, b = recognize(group)
     return hyperop, b
-
-
-ns = 20
-group = [(i ** 3)- (i * 9) for i in range(ns)]
-group = [(i + 4) for i in range(ns)]
-group = [2, 4, 6, 8, 10, 12, 14, 16, 18]
-print([i for i in range(ns)])
-
-print(group)
-print(recognize(group, start=1))
