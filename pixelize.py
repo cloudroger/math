@@ -122,4 +122,8 @@ def pixelize_image(image, percent):
 
     pixeled_image = pixelize(im2, squares, square_averages, percent)
     #pixeled_image.show()
+    pixeled_image.save(r"C:\Users\roger\PycharmProjects\math_\ig\trump.jpg")
     return pixeled_image
+
+
+pixelize_image(r"C:\Users\roger\Downloads\trump.jpeg", .6)
